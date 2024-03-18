@@ -59,4 +59,4 @@ jobs:
           app-name: 'mvptest'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D95A85A89FB54243A10C9E072BB6CC38 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C6C0B3A9499F4265835CA843415C702C }}
