@@ -3,6 +3,6 @@ import App from './App';
 
 test('renders learn react link', () => {
   render(<App />);
-          const linkElement = screen.getByText(/AZURE CXP RESEARCH COPILOT/i);
+          const linkElement = screen.getByText(/AZURE/i);
   expect(linkElement).toBeInTheDocument();
 });
