@@ -583,7 +583,7 @@ const App = () => {
 
     <div className='header'>
     <img className='logo' src={micro} alt="Azurecxp Logo" />
-        <span style={{ marginLeft: 'auto', marginRight: 'auto' }}>AZURE</span>
+        <span style={{ marginLeft: 'auto', marginRight: 'auto' }}>tuto</span>
     </div>
     <div className='content'>
         {isChatSidebarOpen && (
